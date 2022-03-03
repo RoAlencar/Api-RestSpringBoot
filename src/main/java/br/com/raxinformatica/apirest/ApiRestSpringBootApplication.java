@@ -1,5 +1,6 @@
 package br.com.raxinformatica.apirest;
 
+import br.com.raxinformatica.apirest.models.Produto;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
